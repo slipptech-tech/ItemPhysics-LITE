@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "slipptech.itemphysics.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "ItemEntityMixin",
+    "ItemEntityRenderStateMixin",
+    "ItemEntityRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

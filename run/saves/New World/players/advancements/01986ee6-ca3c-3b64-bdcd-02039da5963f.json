@@ -1,0 +1,114 @@
+{
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2026-08-30 20:15:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2026-08-30 20:15:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2026-08-30 20:15:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2026-08-30 20:15:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-08-30 20:14:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2026-08-30 20:15:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_spear": {
+    "criteria": {
+      "has_diamond": "2026-08-30 20:15:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2026-08-30 20:14:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/golden_dandelion": {
+    "criteria": {
+      "has_dandelion": "2026-08-30 20:14:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2026-08-30 20:15:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2026-08-30 20:15:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2026-08-30 20:15:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2026-08-30 20:14:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2026-08-30 20:15:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2026-08-30 20:14:22 +0300",
+      "minecraft:meadow": "2026-08-30 20:14:23 +0300",
+      "minecraft:plains": "2026-08-30 20:14:27 +0300",
+      "minecraft:jagged_peaks": "2026-08-30 20:14:12 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2026-08-30 20:15:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-08-30 20:15:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2026-08-30 20:15:11 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 4790
+}
